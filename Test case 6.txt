@@ -1,0 +1,5 @@
+INPUT
+if(5>7) println("THIS IS FALSE SO NOT EVALUATED");elseif(5==7) println("SAME REPEATS HERE");elseif(5<7) println("THIS IS TRUE")end
+OUTPUT:
+ THIS IS TRUE  
+From Symbol Table :NILL
